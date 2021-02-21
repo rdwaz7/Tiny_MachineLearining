@@ -1,0 +1,3 @@
+This our first training model, it classifies the input image according to its colour.
+The labels:
+Yellow, Blue, Red, Orange, or Black 
