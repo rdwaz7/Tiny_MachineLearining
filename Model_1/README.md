@@ -1,7 +1,7 @@
 ## COLOR PREDICTION MODEL
 ## Table of content
-* [Introduction](#intro for the repo, the Teachable machine)
-* [What is the "Color Prediction Model" Model ](#intro for the model)
+* [Introduction](#intro_for_the_repo,_the_Teachable_machine)
+* [What is the "Color Prediction Model" Model ](#intro_for_the_model)
 * [Try the model on local device](#local_device_installation)
 * [References](#references )
 
