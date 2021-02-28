@@ -11,8 +11,12 @@ This our first training model for AI Course, This model is done based on [Teacha
 ## What is the "Color Prediction Model"?
 
 This our first training model, it classifies the input image according to its colour
-The predicted color:
-Yellow, Blue, Red, Orange, or Black
+The predicted color (Labels ):
+* Yellow
+* Blue
+* Red
+* Orange
+* Black
 
 ## Try the model on local device
 
