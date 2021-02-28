@@ -1,7 +1,7 @@
 ## COLOR PREDICTION MODEL
 ## Table of content
 * [Introduction]
-  * 1.[test]
+  1.[test]
 * [Try the model on local device]
 * 
 * 
