@@ -11,4 +11,5 @@ The predicted color:
 Yellow, Blue, Red, Orange, or Black
 ## What is the "Color Prediction Model"?
 ## Try the model on local device
+## References
  
