@@ -1,6 +1,6 @@
 ## COLOR PREDICTION MODEL
 ## Table of content
-* [Introduction](Try the model on local device)
+* Introduction
   * i.test
 * [Try the model on local device]
 * 
