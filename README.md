@@ -1,8 +1,8 @@
 # Tiny_MachineLearining
-* [Repo for TinyML-ITI projects]
+* [Repo for TinyML-ITI projects](#what_is_the_repo_for)
 To upload our AI projects in ITI intake-41
-* Team: 
-  * Ahmed Elbanna
+* TEAM: 
+  * Ahmed Elbanna 
   * Hossam Magdy
   * Radwa Salah
 
