@@ -15,5 +15,6 @@ The predicted color:
 Yellow, Blue, Red, Orange, or Black
 
 ## Try the model on local device
+
 ## References
  
