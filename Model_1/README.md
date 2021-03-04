@@ -2,6 +2,7 @@
 ## Table of content
 * [Introduction](#intro_for_the_repo,_the_Teachable_machine)
 * [What is the "Color Prediction Model"](#intro_for_the_model)
+* [How the model work](#how_it_works)
 * [Try the model on local device](#local_device_installation)
 * [References](#references )
 
@@ -10,13 +11,17 @@ This our first training model for AI Course, This model is done based on [Teacha
 
 ## What is the "Color Prediction Model"?
 
-This our first training model, it classifies the input image according to its colour
-The predicted color (Labels ):
+This our first training model, it classifies the input image according to its colour.
+It takes the path of the image, and then predict the colour 
+The predicted colors (Labels ):
 * Yellow
 * Blue
 * Red
 * Orange
 * Black
+
+## How the model work
+<img width=“964” alt=“java 8 and prio java 8 Picture_1” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
 
 ## Try the model on local device
 
