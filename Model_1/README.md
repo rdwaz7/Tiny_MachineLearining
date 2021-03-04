@@ -13,7 +13,7 @@ This our first training model for AI Course, This model is done based on [Teacha
 
 This our first training model, it classifies the input image according to its colour.
 It takes the path of the image, and then predict the colour 
-The predicted colors (Labels ):
+The predicted colors (The labels):
 * Yellow
 * Blue
 * Red
@@ -21,7 +21,6 @@ The predicted colors (Labels ):
 * Black
 
 ## How the model work
-<img width=“964” alt=“java 8 and prio java 8 Picture_1” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
 
 ## Try the model on local device
 
