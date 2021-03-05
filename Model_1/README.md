@@ -28,7 +28,7 @@ Train your model, then instantly test it out to see whether it can correctly cla
 ### Step 3: Export
 Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
 
-### With the help of the libraries, give the model a test image, let the model predict the colour then finally, the model answers. 
+#### With the help of the libraries, give the model a test image, let the model predict the colour then finally, the model answers. 
 ![1](https://user-images.githubusercontent.com/73545885/110050083-d2f99500-7d5b-11eb-8a8d-c0f66a587d1e.png)
 ![3](https://user-images.githubusercontent.com/73545885/110050089-d68d1c00-7d5b-11eb-874c-e410b46b0e8a.png)
 
