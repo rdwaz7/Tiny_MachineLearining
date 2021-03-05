@@ -2,7 +2,7 @@
 ## Table of content
 * [Introduction](#intro_for_the_repo,_the_Teachable_machine)
 * [What is the "Color Prediction Model"](#intro_for_the_model)
-* [How the model work](#how_it_works)
+* [How the model works with Teachable machine](#how_it_works)
 * [Try the model on local device](#local_device_installation)
 
 ## Introduction
@@ -19,7 +19,7 @@ The predicted colors (The labels):
 * Orange
 * Black
 
-## How the model work
+## How the model work with Teachable machine
 ### Step 1: Gather
 Gather and group your examples into classes, or categories, that you want the computer to learn.
 ### Step 2: Train
