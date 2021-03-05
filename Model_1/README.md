@@ -41,7 +41,5 @@ To run this model on your local computer, you will need to install these librari
 4. [numpy](https://numpy.org/)
 5. [time](https://www.programiz.com/python-programming/time)
 6. [os](https://www.geeksforgeeks.org/os-module-python-examples/)
-After installing all needed libraries, toy can run the model using pictures from your local device or using your computer camera. if you are using external camera make sure that you have configured it right with your computer.
 
-## References
- 
+Hint: Use Visual Studio Code 
