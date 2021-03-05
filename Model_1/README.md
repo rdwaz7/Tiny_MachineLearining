@@ -32,8 +32,16 @@ Export your model for your projects: sites, apps, and more. You can download you
 ![1](https://user-images.githubusercontent.com/73545885/110050083-d2f99500-7d5b-11eb-8a8d-c0f66a587d1e.png)
 ![3](https://user-images.githubusercontent.com/73545885/110050089-d68d1c00-7d5b-11eb-874c-e410b46b0e8a.png)
 
-
 ## Try the model on local device
+### Libraries and dependencies 
+To run this model on your local computer, you will need to install these libraries on whatever coding environment you will be using.
+1. [cv2](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html)
+2. [tensorflow Keras](https://keras.io/)
+3. [PIL](https://readthedocs.org/projects/pil/downloads/pdf/latest/)
+4. [numpy](https://numpy.org/)
+5. [time](https://www.programiz.com/python-programming/time)
+6. [os](https://www.geeksforgeeks.org/os-module-python-examples/)
+After installing all needed libraries, toy can run the model using pictures from your local device or using your computer camera. if you are using external camera make sure that you have configured it right with your computer.
 
 ## References
  
