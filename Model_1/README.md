@@ -22,6 +22,9 @@ The predicted colors (The labels):
 
 ## How the model work
 
+![1](https://user-images.githubusercontent.com/73545885/110047489-a5f6b380-7d56-11eb-831c-5570fae26a0d.png)
+
+
 ## Try the model on local device
 
 ## References
